@@ -1,0 +1,12 @@
+/* RESET DEFAULT VITE STYLES */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #f4f6f8;
+  font-family: "Segoe UI", Arial, sans-serif;
+}
+
